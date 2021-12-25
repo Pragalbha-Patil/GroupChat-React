@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/58214552/react-how-to-change-startup-file-index-html-to-other-html-page-in-start-url-of
